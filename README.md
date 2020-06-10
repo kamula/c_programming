@@ -8,5 +8,5 @@ total_hours_wasted = 76
 
 
 
-DISCLAIMER
+DISCLAIMER:
 it works on my machine
